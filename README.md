@@ -28,3 +28,26 @@ PART 1: Directions on Using WebStorm
   #11d - A dialogue should pop-up asking you to define the URL of your remote repository. Make sure you copy and paste the link of the public repository you made in GitHub previously.
   #11e - Hit "OK" and finally, select the "Push" button to push commits to remote repository.
 
+PART 2: Glossary
+
+Branch - A parallel version of a current repository which is stored within the repository.
+Clone - A local copy of a repository that is stored on your computer.
+Commit - An edit or change to the repository that is logged and saved as a reversible version.
+Fetch - Retrieving changes from the remote repository (GitHub) and adding them to your local branch without needing to commit them.
+GIT - A local open source program that manages changes and version control.
+GitHub - A cloud based platform that manages version control and collaboration between individuals and team members.
+Merge - Retrieving changes from one branch and adding them to another branch.
+Merge Conflict - Occurs when the same line of code from two branches clash due to discrepancy between changes done to them.
+Push - Uploading committed changes from the local repository to the remote repository.
+Pull - The act of fetching and merging data from another person's copy/version of the repository.
+Remote - The version of the repository which is interlinked with the cloud.
+Repository - A folder for all of your project's contents.
+
+References
+Hendela, A. (2019). Introduction to Github and Webstorm [PowerPoint slides]. Canvas. https://njit.instructure.com/courses/58103/files/8421330?module_item_id=1775632
+
+Hendela, A. (2020). Introduction to Github and Webstorm [PowerPoint slides]. Canvas. https://njit.instructure.com/courses/58103/files/8421337?module_item_id=1775633
+
+“GitHub Glossary - GitHub Docs.” GitHub Docs, 2025, docs.github.com/en/get-started/learning-about-github/github-glossary#branch. Accessed 1 Oct. 2025.
+
+
